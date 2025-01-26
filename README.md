@@ -1,4 +1,4 @@
-# SyA---Pr-ctica-de-Laboratorio-2
+# Sensores y Actuadores - Práctica de Laboratorio 2
 DAQ con IMU para Reconstrucción y Clasificación de Movimiento
 
 ## Integrantes
